@@ -89,5 +89,10 @@ namespace Park_C_Updated
                 textBox3.ForeColor = Color.Silver;
             }
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
